@@ -1,3 +1,4 @@
 # React
 
-- [Tarea: Primer React](/primerReact/index.html)
+- [Primer React](/primerReact/index.html)
+- [Tarea: Primer React](/primer-react/)
