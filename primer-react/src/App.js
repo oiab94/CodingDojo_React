@@ -1,12 +1,21 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
-// *Importamos el módulo Eventos
-import Eventos from './eventosSinteticos/Eventos';
+import PersonalCard from "./poniendoTodoJunto/PoniendoTodoJunto";
 
 function App() {
   return (
     <>
-      <Eventos/>
+      <PersonalCard 
+        name= "Jane" 
+        lastName= "Doe"
+        age= {45}
+        hairColor="Black" />
+      <PersonalCard 
+        name= "John"
+        lastName="Smith"
+        age= {88}
+        hairColor="Brown"
+      />
     </>
   );
 }
