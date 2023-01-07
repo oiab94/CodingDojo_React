@@ -4,3 +4,4 @@
 - [Tarea: Primer React](/primer-react/)
 - [Tarea: Apoyarlo](/primer-react/src/PersonCard/)
 - [Eventos Sinteticos](/primer-react/src/eventosSinteticos/)
+- [Tarea: Poniendo todo junto](/primer-react/src/poniendoTodoJunto/)
