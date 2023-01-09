@@ -1,23 +1,9 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import PersonalCard from "./poniendoTodoJunto/PoniendoTodoJunto";
+import PersonCard from "./componentesFuncionales/personCard";
 
-function App() {
-  return (
-    <>
-      <PersonalCard 
-        name= "Jane" 
-        lastName= "Doe"
-        age= {45}
-        hairColor="Black" />
-      <PersonalCard 
-        name= "John"
-        lastName="Smith"
-        age= {88}
-        hairColor="Brown"
-      />
-    </>
-  );
-}
+let App = () => {
+  return <PersonCard name="John" lastName="Smith" age={9} hairColor="Brown" />;
+};
 
 export default App;
