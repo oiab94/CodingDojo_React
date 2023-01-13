@@ -1,14 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Counter from "./useState/counter";
-import CounterUseState from './useState/useStateCounter';
+// import FormHooks from './formularios/formularioConHooks';
+import FormHooks from './formularios/formularioConHooks';
 
 let App = () => {
   return (
-		<>
-			<Counter />
-			<CounterUseState />
-		</>
+		<FormHooks />
 	);
 };
 
