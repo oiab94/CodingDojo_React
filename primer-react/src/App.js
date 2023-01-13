@@ -1,11 +1,10 @@
 // import logo from "./logo.svg";
 import "./App.css";
-// import FormHooks from './formularios/formularioConHooks';
-import FormHooks from './formularios/formularioConHooks';
+import UserForm from './renderizadoCondicional/UserForm';
 
 let App = () => {
   return (
-		<FormHooks />
+		<UserForm />
 	);
 };
 
