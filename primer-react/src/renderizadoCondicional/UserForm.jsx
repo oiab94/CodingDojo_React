@@ -20,7 +20,12 @@ const UserForm = (props) => {
 
 	return (
 		<form onSubmit={ createUser }>
-			<h3>{ formMessage }</h3>
+			{
+				// *Utilizando operadores ternarios 
+				hasBeenSubmit ? 
+					<h3>Thank you for submit the form!</h3> :
+					<h3>Welcome, please submit the form</h3>
+			}
 			<div>
 				<label>Username:</label>
 				<input type="text" onChange={(e) => setUserName(e.target.value)} />
