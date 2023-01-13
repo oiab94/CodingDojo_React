@@ -8,3 +8,6 @@
 - [Estilos](/primer-react/src/estilos/)
 - [Componentes Funcionales](/primer-react//src//componentesFuncionales/)
 - [Tarea: Gran Inversion](/primer-react//src//granInversion/)
+- [Hooks](/primer-react/src/useState/)
+- [Formularios](/primer-react/src/formularios/userForm.jsx)
+- [Tarea: Formularios con Hook](/primer-react/src/formularios/formularioConHooks.jsx)
