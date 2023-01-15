@@ -1,9 +1,10 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import UserForm from './masFormularios/UserForm';
+import AppPrueba from './useReducer/reducer';
+
 let App = () => {
   return (
-		<UserForm />
+		<AppPrueba />
 	);
 };
 
