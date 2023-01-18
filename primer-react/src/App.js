@@ -1,11 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import MapsReact from './mapsReact/maps';
+import PruebaApp from './levantandoEstado/LevantantadoEstado';
 
 let App = () => {
   return (
 		<>
-			<MapsReact />
+			<PruebaApp />
 		</>
 	);
 };
