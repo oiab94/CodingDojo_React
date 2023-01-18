@@ -1,10 +1,12 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import AppPrueba from './useReducer/reducer';
+import MapsReact from './mapsReact/maps';
 
 let App = () => {
   return (
-		<AppPrueba />
+		<>
+			<MapsReact />
+		</>
 	);
 };
 
