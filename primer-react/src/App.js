@@ -1,11 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import MyComponent from "./devolucionDeLlamadas/MyComponent";
+import FruitForms from "./otrosTiposDeEntradas/FruitForm";
 
 let App = () => {
   return (
 		<>
-			<MyComponent movies={["1", "2", "3"]} />
+			<FruitForms></FruitForms>
 		</>
 	);
 };
