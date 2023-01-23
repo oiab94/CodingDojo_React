@@ -1,11 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import PruebaApp from './levantandoEstado/LevantantadoEstado';
+import MyComponent from "./devolucionDeLlamadas/MyComponent";
 
 let App = () => {
   return (
 		<>
-			<PruebaApp />
+			<MyComponent movies={["1", "2", "3"]} />
 		</>
 	);
 };
