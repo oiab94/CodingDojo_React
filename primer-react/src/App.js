@@ -1,11 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import ToDoList from "./listaDeQueHaceres/TodoList"
+import PruebaApp from "./contextoAPI/PruebaContext"
 
 let App = () => {
   return (
 		<>
-			<ToDoList />
+			<PruebaApp />
 		</>
 	);
 };
