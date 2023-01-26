@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import AxiosPokeAPI from './axios/AxiosPokeAPI';
+import FetchPokemons from './axiosPokemonAPI/FetchPokemons';
 
 function App() {
 	return (
-		<AxiosPokeAPI />
+		<FetchPokemons />
 	);
 }
 

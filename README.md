@@ -18,3 +18,5 @@
 
 # API
 - [Consumo de API](/practica-apis/src/consumoAPI/)
+- [Consumo de API con axios](/practica-apis/src/axios/)
+- [Tarea: Axios Pokemon API](/practica-apis/src/axiosPokemonAPI/)
