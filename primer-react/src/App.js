@@ -1,11 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import FruitForms from "./otrosTiposDeEntradas/FruitForm";
+import ToDoList from "./listaDeQueHaceres/TodoList"
 
 let App = () => {
   return (
 		<>
-			<FruitForms></FruitForms>
+			<ToDoList />
 		</>
 	);
 };
