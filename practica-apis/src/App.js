@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import StarWarsAPI from './useEffect/StarWarsAPI';
+import LimpiezaAlDesmontar from './useEffect/limpiezaAlDesmontar';
 
 function App() {
 	return (
-		<StarWarsAPI />
+		<LimpiezaAlDesmontar />
 	);
 }
 
