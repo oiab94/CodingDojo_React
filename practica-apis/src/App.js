@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import FetchPokemons from './axiosPokemonAPI/FetchPokemons';
+import StarWarsAPI from './useEffect/StarWarsAPI';
 
 function App() {
 	return (
-		<FetchPokemons />
+		<StarWarsAPI />
 	);
 }
 
