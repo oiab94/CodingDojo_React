@@ -20,3 +20,6 @@
 - [Consumo de API](/practica-apis/src/consumoAPI/)
 - [Consumo de API con axios](/practica-apis/src/axios/)
 - [Tarea: Axios Pokemon API](/practica-apis/src/axiosPokemonAPI/)
+- [useEffect y sus callback internos](/practica-apis/src/useEffect/StarWarsAPI.jsx)
+- [useEffect y limpieza para recuperación de memoría](/practica-apis/src/useEffect/limpiezaAlDesmontar.jsx)
+- [Tarea: Luke APIWalker](/practica-apis/src/swAPI/)
