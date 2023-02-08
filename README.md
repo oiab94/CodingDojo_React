@@ -13,6 +13,7 @@
 - [Formularios](/primer-react/src/formularios/userForm.jsx)
 - [Tarea: Formularios con Hook](/primer-react/src/formularios/formularioConHooks.jsx)
 - [Tarea: Mas Formularios](/primer-react/src/masFormularios/)
+- [Tarea: Generador de cajas](/primer-react/src/generadorDeCaja/)
 - [Tarea: Lista quehaceres](/primer-react/src/listaDeQueHaceres)
 - [Uso de contexto](/primer-react/src/contextoAPI/)
 - [Uso de contexto con useState](/primer-react/src/contextoDeUseState/)

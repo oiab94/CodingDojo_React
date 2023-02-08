@@ -1,11 +1,10 @@
-// import logo from "./logo.svg";
 import "./App.css";
-import TrazandoNuestrosBloques from "./trazandoNuestrosBloques/App";
+import GeneradorDeCaja from "./generadorDeCaja/GeneradorDeCaja";
 
 let App = () => {
   return (
 		<>
-			<TrazandoNuestrosBloques />
+			<GeneradorDeCaja />
 		</>
 	);
 };
