@@ -1,11 +1,11 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import PruebaApp from "./contextoDeUseState/PruebaContextUseState";
+import TrazandoNuestrosBloques from "./trazandoNuestrosBloques/App";
 
 let App = () => {
   return (
 		<>
-			<PruebaApp />
+			<TrazandoNuestrosBloques />
 		</>
 	);
 };

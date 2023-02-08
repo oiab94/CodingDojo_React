@@ -6,6 +6,7 @@
 - [Eventos Sinteticos](/primer-react/src/eventosSinteticos/)
 - [Tarea: Poniendo todo junto](/primer-react/src/poniendoTodoJunto/)
 - [Estilos](/primer-react/src/estilos/)
+- [Tarea: Trazando nuestros Bloques](/primer-react/src/trazandoNuestrosBloques/)
 - [Componentes Funcionales](/primer-react//src//componentesFuncionales/)
 - [Tarea: Gran Inversion](/primer-react//src//granInversion/)
 - [Hooks](/primer-react/src/useState/)
